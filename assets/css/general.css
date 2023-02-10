@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "EpsilonRoboto";
+  src: url("./fonts/Roboto-Black.ttf") format("ttf"),
+  url("./fonts/Roboto-BlackItalic.ttf") format("ttf"),
+  url("./fonts/Roboto-Bold.ttf") format("ttf"),
+  url("./fonts/Roboto-BoldItalic.ttf") format("ttf"),
+  url("./fonts/Roboto-Italic.ttf") format("ttf"),
+  url("./fonts/Roboto-Light.ttf") format("ttf"),
+  url("./fonts/Roboto-LightItalic.ttf") format("ttf"),
+  url("./fonts/Roboto-Medium.ttf") format("ttf"),
+  url("./fonts/Roboto-MediumItalic.ttf") format("ttf"),
+  url("./fonts/Roboto-Regular.ttf") format("ttf"),
+  url("./fonts/Roboto-Thin.ttf") format("ttf"),
+  url("./fonts/Roboto-ThinItalic.ttf") format("ttf");
+  font-display: swap;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+/* Set the second layer of list items to lowercase alphabetic */
+ol > li > ol {
+  list-style-type: lower-alpha;
+}
+
+/* Set the third layer of list items to lowercase Roman numerals */
+ol > li > ol > li > ol {
+  list-style-type: lower-roman;
+}
+.dropdown-item:hover {
+  background-color: rgb(79, 78, 78);
+}
