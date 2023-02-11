@@ -184,6 +184,11 @@ require_once('../assets/template/header.php');
 		publishable-key="pk_live_51LfsMnH2SSsUZfnxeGGeigPjJEsgIfgAOYQ0eYC0ZDcHXGmbr0fqMfuLnKcXPNyEAUWv9Lkl972Re573JJpcomvv00F5t26w6B">
 	</stripe-pricing-table>
 
+	<lightning-widget name="Epsilon Community" accent="#376376" to="epsiloncommunity@getalby.com"
+		image="https://imgproxy.snort.social/mW072oNJ8Cm4Q4wqDCRzmqSzoi26JOnmbioj_k5CVGM/rs:fit:120:120/aHR0cHM6Ly92b2lkLmNhdC9kLzdkMmVKYUZoVlE0dFY2RUJpc3VUMkQud2VicA"
+		amounts="1,5,10,100,1000,10000" />
+	<script src="https://embed.twentyuno.net/js/app.js"></script>
+
 	<br>
 	<br>
 	<?php
