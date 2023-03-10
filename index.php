@@ -20,20 +20,21 @@ require_once('assets/template/header.php');
 		pinged with irrelevant stuff.
 	</p>
 	<p>
-		Epsilon is a community of people who have <a href='https://epsilon.community/interests/'>similar interests</a>.
+		Epsilon is a community of people who have <a href='https://epsilon.community/about/interests/'>similar
+			interests</a>.
 	</p>
 	<p>
-		Epsilon wants to make and have the <a href='https://epsilon.community/funding/'>funding</a> for <a
-			href='https://epsilon.community/servers/'>game servers</a>.
+		Epsilon wants to make and have the <a href='https://epsilon.community/about/funding/'>funding</a> for <a
+			href='https://epsilon.community/about/servers/'>game servers</a>.
 	</p>
 	<p>
-		Epsilon is looking to provide a <a href='https://epsilon.community/discord/'>platform</a> for others to play <a
-			href='https://epsilon.community/games/'>games</a> together.
+		Epsilon is looking to provide a <a href='https://discord.epsilon.community/'>platform</a> for others to play <a
+			href='https://epsilon.community/about/games/'>games</a> together.
 	</p>
 	<p>
 		Epsilon follows the rules of:
 	<ol>
-		<li><a href='https://epsilon.community/charter/'>Epsilon Community's Charter</a>.</li>
+		<li><a href='https://epsilon.community/about/charter/'>Epsilon Community's Charter</a>.</li>
 		<li><a href='https://discord.com/guidelines/' target='_blank' rel='noopener noreferrer'>Discord’s Code of
 				Conduct</a>.</li>
 		<li><a href='https://joinsquad.com/code-of-conduct/' target='_blank' rel='noopener noreferrer'>Squad’s Code of
