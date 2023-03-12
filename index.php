@@ -28,7 +28,8 @@ require_once('assets/template/header.php');
 			href='https://epsilon.community/about/servers/'>game servers</a>.
 	</p>
 	<p>
-		Epsilon is looking to provide a <a href='https://discord.epsilon.community/'>platform</a> for others to play <a
+		Epsilon is looking to provide a <a href='https://discord.epsilon.community/' target="_blank"
+			rel="noopener noreferrer">platform</a> for others to play <a
 			href='https://epsilon.community/about/games/'>games</a> together.
 	</p>
 	<p>
