@@ -11,7 +11,7 @@ require_once('assets/template/header.php');
 <div class='page container text-white'>
 	<br>
 	<h1>
-		403 - This Page is Forbidden
+		403 - This Page is Forbidden :(
 	</h1>
 	<h6>The resource requested can not be accessed.</h6>
 	<hr>

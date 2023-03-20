@@ -11,7 +11,7 @@ require_once('assets/template/header.php');
 <div class='page container text-white'>
 	<br>
 	<h1>
-		404 - Page Not Found
+		404 - Page Not Found :(
 	</h1>
 	<h6>The resource requested could not be found.</h6>
 	<hr>
